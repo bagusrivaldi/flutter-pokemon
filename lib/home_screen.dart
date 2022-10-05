@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:pokemon/detail_screen.dart';
-import 'package:pokemon/get_data/pokemon_model.dart';
 import 'package:http/http.dart' as http;
 
 String _name = 'Pokemon';
